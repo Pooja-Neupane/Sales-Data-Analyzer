@@ -1,0 +1,7 @@
+Product,Region,Sales,Price
+Laptop,North,20,500
+Tablet,East,35,300
+Phone,West,50,200
+Laptop,East,,500
+Phone,,40,200
+Tablet,North,25,300
