@@ -2,6 +2,12 @@ Product,Region,Sales,Price
 Laptop,North,20,500
 Tablet,East,35,300
 Phone,West,50,200
-Laptop,East,,500
-Phone,,40,200
-Tablet,North,25,300
+Laptop,East,28,520
+Phone,South,40,210
+Tablet,North,25,310
+Laptop,West,18,515
+Tablet,South,30,295
+Phone,East,60,205
+Laptop,South,22,510
+Tablet,West,27,305
+Phone,North,55,200
